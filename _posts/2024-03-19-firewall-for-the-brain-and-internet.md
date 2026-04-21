@@ -2,6 +2,7 @@
 layout: post
 title: "Firewall for the Brain and Internet"
 date: 2024-07-29
+published: false
 ---
 
 The internet is plagued by an overwhelming amount of information, with a staggering majority being irrelevant or misleading. The signal-to-noise ratio is alarmingly low. A typical website visited by the average user is infested with around 25-30 trackers from advertising sites, with doubleclick.net being a prime culprit. It's astonishing that domains like doubleclick.net and googlesyndication.com consistently rank among the top 100 most queried domains.
